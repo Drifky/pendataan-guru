@@ -1,2 +1,2 @@
-# pendataan-guru
+# pendataan-siswa
 aplikasi untuk pendataan siswa
